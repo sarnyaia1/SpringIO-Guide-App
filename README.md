@@ -14,3 +14,9 @@
 
 4. Building Java Projects with Maven
 - Learn how to build a Java project with Maven.
+
+5. Uploading Files
+- Add thymeleaf dependency
+- Add StorageException, StorageFileNotFoundException, StorageService, FileSystemStorageService and StorageProperties
+- Add FileUploadController, application.yml, uploadForm.html and custom MainApplication with CommandLineRunner
+- Add FileUploadTests file for testing the application
